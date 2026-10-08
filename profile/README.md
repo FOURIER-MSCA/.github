@@ -6,15 +6,15 @@
 
 This GitHub organization collects the open research outputs of FOURIER doctoral candidates: code, models, data descriptions and supporting material for publications.
 
-## Research projects
+<!-- ## Research projects
 
 | Repository | Doctoral candidate | Host institution | Topic |
 |---|---|---|---|
-| | | | |
+| | | | | -->
 
 ## Contributing a project
 
-FOURIER doctoral candidates can add their projects to this organization. See the [contribution guide](https://github.com/<org-name>/.github/blob/main/CONTRIBUTING.md).
+FOURIER doctoral candidates can add their projects to this organization. See the [contribution guide](https://github.com/FOURIER-MSCA/.github.git/CONTRIBUTING.md).
 
 ## Acknowledgement
 
