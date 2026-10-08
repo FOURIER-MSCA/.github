@@ -14,7 +14,7 @@ This GitHub organization collects the open research outputs of FOURIER doctoral 
 
 ## Contributing a project
 
-FOURIER doctoral candidates can add their projects to this organization. See the [contribution guide](https://github.com/FOURIER-MSCA/.github.git/CONTRIBUTING.md).
+FOURIER doctoral candidates can add their projects to this organization. See the [contribution guide](https://github.com/FOURIER-MSCA/.github/blob/main/CONTRIBUTING.md).
 
 ## Acknowledgement
 
