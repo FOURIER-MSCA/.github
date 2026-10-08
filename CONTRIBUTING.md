@@ -5,7 +5,7 @@ This guide applies to all repositories in the organization unless a repository h
 ## Adding a new research project
 
 1. Ask an organization owner for member access (you need to be a FOURIER doctoral candidate or staff member).
-2. Open the [`project-template`](https://github.com/<org-name>/project-template) repository and click **Use this template → Create a new repository**.
+2. Open the [`project-template`](https://github.com/FOURIER-MSCA/project-template) repository and click **Use this template → Create a new repository**.
 3. Set **Owner** to the FOURIER organization and choose a repository name (see naming below).
 4. Start as **Private** while you set things up. Switch to **Public** once the checklist below is complete.
 5. Fill in the `README.md`, `LICENSE` and `CITATION.cff` placeholders.
@@ -37,4 +37,4 @@ This guide applies to all repositories in the organization unless a repository h
 
 ## Questions
 
-Open an issue in the [`.github`](https://github.com/<org-name>/.github) repository or contact an organization owner: <name>, <email>.
+Open an issue in the [`.github`](https://github.com/FOURIER-MSCA/.github) repository or contact an organization owner: <name>, <email>.
